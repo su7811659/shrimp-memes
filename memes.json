@@ -1,0 +1,347 @@
+[
+  {
+    "id": "down_02",
+    "category": "down",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/down_02.png",
+    "description": "蝦蝦化身巴菲特，以「不賣就不算賠」的邏輯淡定自嘲。",
+    "intensity": "mild",
+    "tags": [
+      "shrimp_themed",
+      "portfolio_loss",
+      "sarcasm",
+      "自嘲",
+      "market_crash"
+    ],
+    "text_on_image": [
+      "不要慌",
+      "沒有賣出",
+      "就是沒有賠",
+      "—華倫．巴菲特",
+      "沒有說這句"
+    ]
+  },
+  {
+    "id": "up_04",
+    "category": "up",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/up_04.png",
+    "description": "紅色龍蝦角色憤怒且激動地揮舞大疊美鈔，急著想入場花錢。",
+    "intensity": "medium",
+    "tags": [
+      "fomo",
+      "chase",
+      "shrimp_themed",
+      "euphoria",
+      "meme_parody"
+    ],
+    "text_on_image": [
+      "100",
+      "Shut up and take my money!"
+    ]
+  },
+  {
+    "id": "down_01",
+    "category": "down",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/down_01.jpg",
+    "description": "龍蝦角色流淚張口大喊，崩潰渴求行情V轉，極度絕望。",
+    "intensity": "ouch",
+    "tags": [
+      "shrimp_themed",
+      "market_crash",
+      "despair",
+      "portfolio_loss",
+      "漫畫風"
+    ],
+    "text_on_image": [
+      "V啊!!!!!",
+      "V啊!!!",
+      "!!!!!!!"
+    ]
+  },
+  {
+    "id": "down_03",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/down_03.jpg",
+    "description": "紅色龍蝦憤怒揮手，拒絕聽從停損建議，展現對投資信仰的狂熱與執著。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "euphoria",
+      "faith",
+      "chase",
+      "market_crash",
+      "sarcasm"
+    ],
+    "text_on_image": [
+      "別跟我說什麼停損？美股大跌？",
+      "漲高修正？？？",
+      "老子買的是未來、買的是信仰",
+      "你們這些凡夫俗子懂什麼",
+      "從腦神經到太陽系",
+      "沒有怕太高只有怕你跟不上而已"
+    ]
+  },
+  {
+    "id": "down_04",
+    "category": "down",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/down_04.jpg",
+    "description": "漫畫風蝦子冒汗驚覺全世界都在賺，只有自己在賠錢。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "portfolio_loss",
+      "despair",
+      "regret",
+      "漫畫風"
+    ],
+    "text_on_image": [
+      "話說為什麼大家都一副開心的樣子！",
+      "難不成只有我虧了...!?",
+      "ドドド"
+    ]
+  },
+  {
+    "id": "down_05",
+    "category": "down",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/down_05.jpg",
+    "description": "黑色龍蝦從興奮看漲轉向開高走低的崩潰，表情反差巨大。",
+    "intensity": "ouch",
+    "tags": [
+      "market_crash",
+      "regret",
+      "shrimp_themed",
+      "despair",
+      "chase"
+    ],
+    "text_on_image": [
+      "昨天突破盤整，今天果然繼續漲!!!",
+      "(開高走低收最低)"
+    ]
+  },
+  {
+    "id": "flat_01",
+    "category": "flat",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/flat_01.jpg",
+    "description": "蝦味仙拒絕理性分析，幽默展現堅持不賣、等待奇蹟的投資自嘲心態。",
+    "intensity": "mild",
+    "tags": [
+      "shrimp_themed",
+      "sarcasm",
+      "diamond_hands",
+      "investing_logic",
+      "meme_classic"
+    ],
+    "text_on_image": [
+      "基本面",
+      "技術面",
+      "籌碼面",
+      "一張不賣",
+      "奇蹟自來"
+    ]
+  },
+  {
+    "id": "flat_02",
+    "category": "flat",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/flat_02.jpg",
+    "description": "蝦蝦化身武士戴上鹿角盔，眼神死但堅持持續加碼。",
+    "intensity": "mild",
+    "tags": [
+      "shrimp_themed",
+      "market_strategy",
+      "sarcasm",
+      "animal_meme",
+      "despair"
+    ],
+    "text_on_image": [
+      "本多終勝 · 持續加碼 · 堅持下去..."
+    ]
+  },
+  {
+    "id": "flat_03",
+    "category": "flat",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/flat_03.jpg",
+    "description": "龍蝦宣稱分散風險，卻全壓三倍槓桿 ETF，表情從淡定變得意。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "fomo",
+      "leverage",
+      "sarcasm",
+      "portfolio_risk"
+    ],
+    "text_on_image": [
+      "做長期投資一定要分散風險",
+      "把資金分成三個部位",
+      "投入 UPRO, TQQQ, SOXL"
+    ]
+  },
+  {
+    "id": "fomo_01",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/fomo_01.jpg",
+    "description": "穿著毛衣的紅蝦表情痛苦掙扎，強忍想買股票的衝動，展現極度糾結感。",
+    "intensity": "medium",
+    "tags": [
+      "fomo",
+      "chase",
+      "shrimp_themed",
+      "漫畫風",
+      "euphoria"
+    ],
+    "text_on_image": [
+      "好想買股票"
+    ]
+  },
+  {
+    "id": "fomo_02",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/fomo_02.jpg",
+    "description": "紅色蝦蝦在鞦韆、餐桌與泳池旁神情落寞，充滿錯失漲幅的空虛感。",
+    "intensity": "medium",
+    "tags": [
+      "regret",
+      "fomo",
+      "shrimp_themed",
+      "chase",
+      "comic_style"
+    ],
+    "text_on_image": [
+      "剛賣出的股票開始上漲"
+    ]
+  },
+  {
+    "id": "fomo_03",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/fomo_03.jpg",
+    "description": "龍蝦角色崩潰大哭，另一隻在耳邊嘲諷因停損而錯過反彈，極度悔恨。",
+    "intensity": "ouch",
+    "tags": [
+      "regret",
+      "shrimp_themed",
+      "market_bounce",
+      "despair",
+      "trading_meme"
+    ],
+    "text_on_image": [
+      "叫你下跌的時候加碼",
+      "你在那邊停損",
+      "現在全部都漲回來了"
+    ]
+  },
+  {
+    "id": "fomo_04",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/fomo_04.jpg",
+    "description": "紅色龍蝦大叔表情驚愕崩潰，因錯失行情而感到極度懊悔與焦慮。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "fomo",
+      "regret",
+      "market_rally",
+      "漫畫風"
+    ],
+    "text_on_image": [
+      "館",
+      "00839",
+      "我還沒上車呢"
+    ]
+  },
+  {
+    "id": "fomo_05",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/fomo_05.jpg",
+    "description": "蝦味仙神情瘋狂且滿頭大汗，沈溺在現在買入必賺的妄想中。",
+    "intensity": "medium",
+    "tags": [
+      "fomo",
+      "euphoria",
+      "shrimp_themed",
+      "chase",
+      "漫畫風"
+    ],
+    "text_on_image": [
+      "蝦味仙所做的事稱不上什麼預測",
+      "現在買入",
+      "一定爆賺！",
+      "只能算妄想...！",
+      "！！"
+    ]
+  },
+  {
+    "id": "up_01",
+    "category": "up",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/up_01.jpg",
+    "description": "龍蝦死魚眼發功，胸前浮現巨大紅色V字光芒，神情淡定且自嘲。",
+    "intensity": "mild",
+    "tags": [
+      "shrimp_themed",
+      "market_recovery",
+      "sarcasm",
+      "anime_meme",
+      "flat"
+    ],
+    "text_on_image": [
+      "大v天龍"
+    ]
+  },
+  {
+    "id": "up_02",
+    "category": "fomo",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/up_02.jpg",
+    "description": "川普造型的紅蝦憤怒咆哮，展現強烈逼買與沒上車的責備感。",
+    "intensity": "medium",
+    "tags": [
+      "fomo",
+      "chase",
+      "shrimp_themed",
+      "regret",
+      "sarcasm"
+    ],
+    "text_on_image": [
+      "我不是叫了你不停買嗎"
+    ]
+  },
+  {
+    "id": "up_03",
+    "category": "up",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/up_03.jpg",
+    "description": "龍蝦在熱血漫畫背景中，被指引在K線V轉底部做多。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "漫畫風",
+      "euphoria",
+      "chase",
+      "technical_analysis"
+    ],
+    "text_on_image": [
+      "要做多的話",
+      "是這裡...！",
+      "ギャッ",
+      "這個是",
+      "勝利的V字形...！",
+      "ビビビ ロングィーンッ"
+    ]
+  },
+  {
+    "id": "up_05",
+    "category": "up",
+    "url": "https://raw.githubusercontent.com/su7811659/shrimp-memes/main/up_05.jpg",
+    "description": "龍蝦滿頭大汗喊著美股簡單，表情極度崩潰且具反差感。",
+    "intensity": "medium",
+    "tags": [
+      "shrimp_themed",
+      "sarcasm",
+      "market_crash",
+      "despair",
+      "漫畫風"
+    ],
+    "text_on_image": [
+      "美股",
+      "簡單",
+      "にっ",
+      "こ",
+      "お"
+    ]
+  }
+]
